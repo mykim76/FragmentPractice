@@ -11,6 +11,6 @@
         android:layout_height="wrap_content"
         android:textSize="25dp"
         android:text="첫번째 프래그먼트"
-        android:textColor="#FFFFFF"
+        android:textColor="#FFFFFF"/>
 
 </LinearLayout>
