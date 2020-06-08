@@ -15,4 +15,10 @@ class ThirdFragment : Fragment() {
     ): View? {
         return inflater.inflate(R.layout.fragment_third, container,false)
     }
+
+    override fun onActivityCreated(savedInstanceState: Bundle?) {
+        super.onActivityCreated(savedInstanceState)
+
+
+    }
 }
